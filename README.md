@@ -4,5 +4,5 @@ This repository contains a list of scholarships, awards, and fellowship opportun
 ## Scholarships
 | Name          | Education Level      | Deadline       |
 | ------------- |:-------------:| -------------:|
-| [Mastercard Foundation Scholars Program] (https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/) | Undergraduate, & Masters | Varies by institution |
-| [Erasmus Mundus Scholarships] (https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en) | Masters | Varies |
+| [Mastercard Foundation Scholars Program](https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/) | Undergraduate, & Masters | Varies by institution |
+| [Erasmus Mundus Scholarships](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en) | Masters | Varies |
