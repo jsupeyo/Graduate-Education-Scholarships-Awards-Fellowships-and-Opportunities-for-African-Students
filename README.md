@@ -16,3 +16,15 @@ This repository contains a list of scholarships, awards, and fellowship opportun
 | United Kingdom | [Commonwealth Scholarships](https://cscuk.fcdo.gov.uk/about-us/scholarships/) | Masters (both in-person and distant learning), & PhD | Varies |
 | Australia | [Australia Awards Scholarships](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships) | Undergraduate, Masters, & PhD | May |
 | China | [Schwarzman Scholars Program](https://www.schwarzmanscholars.org/) | Masters | September |
+
+#### Licensing and Attribution
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
