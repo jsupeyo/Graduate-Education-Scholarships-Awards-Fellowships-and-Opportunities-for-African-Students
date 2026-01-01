@@ -14,3 +14,5 @@ This repository contains a list of scholarships, awards, and fellowship opportun
 | United Kingdom | [The Ibrahim Scholarships](https://mo.ibrahim.foundation/scholarships) | Masters | Varies |
 | United Kingdom | [Chevening Scholarships](https://www.chevening.org/scholarships/) | Masters | Varies |
 | United Kingdom | [Commonwealth Scholarships](https://cscuk.fcdo.gov.uk/about-us/scholarships/) | Masters (both in-person and distant learning), & PhD | Varies |
+| Australia | [Australia Awards Scholarships](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships) | Undergraduate, Masters, & PhD | May |
+| China | [Schwarzman Scholars Program](https://www.schwarzmanscholars.org/) | Masters | September |
