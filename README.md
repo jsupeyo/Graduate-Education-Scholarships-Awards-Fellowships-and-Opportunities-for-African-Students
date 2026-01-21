@@ -16,6 +16,9 @@ This repository contains a list of scholarships, awards, and fellowship opportun
 | United Kingdom | [Commonwealth Scholarships](https://cscuk.fcdo.gov.uk/about-us/scholarships/) | Masters (both in-person and distant learning), & PhD | Varies |
 | Australia | [Australia Awards Scholarships](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships) | Undergraduate, Masters, & PhD | May |
 | China | [Schwarzman Scholars Program](https://www.schwarzmanscholars.org/) | Masters | September |
+| Sweden | [Swedish Institute Scholarships for Global Professionals] (https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/) | Masters | February |
+
+If your area of interest is computer science, this [repo] (https://github.com/chinasatokolo/csGraduateFellowships) offers a more detailed curation of resources!
 
 #### Licensing and Attribution
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
