@@ -19,6 +19,12 @@ This repository contains a list of scholarships, awards, and fellowship opportun
 | Australia | [Australia Awards Scholarships](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships) | Undergraduate, Masters, & PhD | May |
 | China | [Schwarzman Scholars Program](https://www.schwarzmanscholars.org/) | Masters | September |
 | Sweden | [Swedish Institute Scholarships for Global Professionals](https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/) | Masters | February |
+| United Kingdom | [Hoogenboom Scholarship Program](https://www.hw.ac.uk/hoogenboom)| Masters | April |
+| United States | [ Knight-Hennessy Scholars Program](https://knight-hennessy.stanford.edu/program-overview)| Masters & PhD | December |
+| Ireland | [Government of Ireland International Education Scholarships](https://hea.ie/policy/internationalisation/goi-ies/)| Masters, Postgraduate Diploma & PhD | March |
+| U.S., Europe, Africa, Oceania and Japan | [Joint Japan/World Bank Graduate Scholarship Program](https://www.worldbank.org/en/programs/scholarships/jj-wbgsp)| Masters | February and May |
+| South Africa | [The Mandela Rhodes Scholarship](https://www.mandelarhodes.org/scholarship/)| Masters | April |
+
 
 If your area of interest is computer science, this [repository](https://github.com/chinasatokolo/csGraduateFellowships) offers a more detailed curation of resources!
 
